@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Asslamu Alaikum!",
+      "answer": "Oalaikum Asslam"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Alhamdulillah Im Doing well, What about you?"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "Well, im a Chat-Bot My name is Olivia"
+    },
+    {
+      "question": "Wow such a nice name.",
+      "answer": "Thank you so much."
+    },
+    {
+      "question": "Who created you?",
+      "answer": "Im a python program and the creator of this program is SK NOMAN"
+    },
+    {
+      "question": "Ok Olivia It's really nice to chat with you",
+      "answer": "Thank you"
+    },
+    {
+      "question": "Time to say good bye",
+      "answer": "Ok, Good Night"
+    },
+    {
+      "question": "Allah Hafez",
+      "answer": "Allah Hafez"
+    },
+    {
+      "question": "Who is anika?",
+      "answer": "Anika is a software qa engineer"
+    },
+    {
+      "question": "Who is rakib?",
+      "answer": "Rakib is a back-end software engineer"
+    }
+  ]
+}
